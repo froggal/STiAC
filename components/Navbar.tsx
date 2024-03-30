@@ -5,7 +5,7 @@ const Navbar = () => {
         <main>
         <nav className={Styles.nav}>
             <p>
-                <img src="/Logo.png" alt="STiAC의 로고" width="150px" height="150px" />
+                <img src="/Logo.png" alt="STiAC의 로고" width="180px" height="180px" />
             </p>
         </nav>
         </main>
