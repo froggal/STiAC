@@ -1,5 +1,6 @@
 import styles from "./page.module.css";
 import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
         </h1>
         <h2>런칭되면 해당 웹사이트에 바로 안내해드리겠습니다. 조금만 기다려주세요!</h2>
       </div>
+      <Footer />
     </main>
   );
 }
